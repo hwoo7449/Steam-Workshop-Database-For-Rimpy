@@ -6,4 +6,4 @@ This is simply a modification of the DB structure to suit Rimpy.
 It prevents it from appearing as 'NONE' when you want to download a mode that doesn't exist when you load a list of modes.
 
 ## How to use:   
-### Overwrite "db.json" To "Rimpy_Windows\database\db.json"
+### Overwrite "db.json" To "path/to/Rimpy/database/db.json"
