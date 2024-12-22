@@ -9,6 +9,8 @@ It prevents it from appearing as 'NONE' when you want to download a mode that do
 ## How to use:   
 ### Overwrite "db.json" To "path/to/Rimpy/database/db.json"
 
+
+## Preview:   
 **BEFORE**   
 <img src="./Img/BEFORE.png" width="70%" height="70%">   
 **AFTER**   
